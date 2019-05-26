@@ -1,0 +1,35 @@
+
+{
+  "root": [
+    {
+      "name": "CCTV-1综合",
+      "url": "http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226998/index.m3u8",
+      "img": "@drawable/cctv1"
+    },
+    {
+      "name": "济南影视",
+      "url": "http://ts1.ijntv.cn/yshd/hd/live.m3u8",
+      "img": "@drawable/jnys"
+    },
+    {
+      "name": "CCTV-3综艺",
+      "url": "http://ivi.bupt.edu.cn/hls/cctv3.m3u8",
+      "img": "@drawable/cctv3"
+    },
+    {
+      "name": "CCTV-4中文国际",
+      "url": "http://ivi.bupt.edu.cn/hls/cctv4.m3u8",
+      "img": "@drawable/cctv4"
+    },
+    {
+      "name": "峨眉电影",
+      "url": "http://scgctvshow.sctv.com/hdlive/emei/3.m3u8",
+      "img": "@drawable/emdy"
+    },
+    {
+      "name": "CCTV-6电影",
+      "url": "http://ivi.bupt.edu.cn/hls/cctv6.m3u8",
+      "img": "@drawable/cctv6"
+    }
+  ]
+}
